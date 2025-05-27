@@ -1,10 +1,10 @@
 ## 공부하고 성장중인 개발자 임성제입니다.
 
-Email: seongje00416@gmail.com
-Portfolio: <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4"> Notion 포트폴리오 </a>
-Notion:
-  Programming: <a href="https://www.notion.so/seongje00416/4c36eb99dd704af8b7356173ef0cb247?v=18df116d5c724a3794e5ef8fcd58c77e&pvs=4"> 프로그래밍 기술 블로그 </a>
-  Cloud Service: <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4"> 클라우드 서비스 기술 블로그 </a>
+<p> Email: seongje00416@gmail.com </p>
+<p> Portfolio: <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4"> Notion 포트폴리오 </a> </p
+<p> Blog: </p>
+<p> - Programming: <a href="https://www.notion.so/seongje00416/4c36eb99dd704af8b7356173ef0cb247?v=18df116d5c724a3794e5ef8fcd58c77e&pvs=4"> 프로그래밍 기술 블로그 </a> </p>
+<p> -  Cloud Service: <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4"> 클라우드 서비스 기술 블로그 </a> </p>
 
 <!--
 **seongje00416/seongje00416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
