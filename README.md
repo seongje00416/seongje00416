@@ -1,22 +1,57 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,26&height=300&section=header&text=🌳🌲🌳&fontSize=70&fontAlign=75)
+
 ## 공부하고 성장중인 개발자 임성제입니다.
 
-<p> Email: seongje00416@gmail.com </p>
-<p> Portfolio: <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4"> Notion 포트폴리오 </a> </p
-<p> Blog: </p>
-<p> - Programming: <a href="https://www.notion.so/seongje00416/4c36eb99dd704af8b7356173ef0cb247?v=18df116d5c724a3794e5ef8fcd58c77e&pvs=4"> 프로그래밍 기술 블로그 </a> </p>
-<p> -  Cloud Service: <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4"> 클라우드 서비스 기술 블로그 </a> </p>
+<p> <strong>Email</strong>: seongje00416@gmail.com </p>
+<p> <strong>Portfolio</strong>: </p>
+<p>
+  <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4">
+    <img src="https://img.shields.io/badge/Lim Seongje-6B9900?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+</p>
+<p> <strong>Blog</strong>: </p>
+<p>
+  <a href="https://www.notion.so/seongje00416/4c36eb99dd704af8b7356173ef0cb247?v=18df116d5c724a3794e5ef8fcd58c77e&pvs=4">
+    <img src="https://img.shields.io/badge/Programming-22741C?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4">
+    <img src="https://img.shields.io/badge/Cloud Service-2F9D27?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+</p>
+<br>
 
-<!--
-**seongje00416/seongje00416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skill Stack
+<p> <strong>I can use...</strong> </p>
+<p>
+  <img src="https://img.shields.io/badge/Java-FF5E00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-FFBB00?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-6799FF?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-22741C?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-3DB7CC?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-F29661?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-FF5E00?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-4374D9?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-0054FF?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-997000?style=for-the-badge&logo=Amazon&logoColor=white">
+  <img src="https://img.shields.io/badge/NCP-22741C?style=for-the-badge&logo=Naver&logoColor=white">
+</p>
+<p> <strong>I'm studying...</strong> </p>
+<p>
+  <img src="https://img.shields.io/badge/C++-6799FF?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-D9418C?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-FF0000?style=for-the-badge&logo=Googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-F29661?style=for-the-badge&logo=Argo&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-008299?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
+<br>
 
-Here are some ideas to get you started:
+## Github
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=seongje00416&theme=shadow_green&show_icons=true&hide=stars" height="180px" max-width="50%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongje00416&layout=compact&theme=shadow_green" height="180px" max-width="45%" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
