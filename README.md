@@ -20,6 +20,15 @@
 </p>
 <br>
 
+## Github
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=seongje00416&theme=shadow_green&show_icons=true&hide=stars" height="180px" max-width="50%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongje00416&layout=compact&theme=shadow_green" height="180px" max-width="45%" />
+</a>
+<br>
+
 ## Skill Stack
 <p> <strong>I can use...</strong> </p>
 <p>
@@ -46,12 +55,6 @@
 </p>
 <br>
 
-## Github
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=seongje00416&theme=shadow_green&show_icons=true&hide=stars" height="180px" max-width="50%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongje00416&layout=compact&theme=shadow_green" height="180px" max-width="45%" />
-</a>
+
 
 
