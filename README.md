@@ -3,7 +3,7 @@
 ## 공부하고 성장중인 개발자 임성제입니다.
 
 <p> <strong>Email</strong>: seongje00416@gmail.com </p>
-<p> <strong>Portfolio</strong>: </p>
+<p> <strong> About me </strong>: </p>
 <p>
   <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4">
     <img src="https://img.shields.io/badge/Lim Seongje-983C07?style=for-the-badge&logo=Notion&logoColor=white">
