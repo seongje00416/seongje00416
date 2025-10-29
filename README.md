@@ -38,9 +38,13 @@
   <img src="https://img.shields.io/badge/Java-FF5E00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-FFBB00?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-6799FF?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-F29661?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Spring Boot-22741C?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/React-3DB7CC?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-F29661?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Git-FF5E00?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-4374D9?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-0054FF?style=for-the-badge&logo=Kubernetes&logoColor=white">
