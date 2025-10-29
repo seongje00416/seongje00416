@@ -6,7 +6,7 @@
 <p> <strong>Portfolio</strong>: </p>
 <p>
   <a href="https://www.notion.so/seongje00416/Portfolio-846f88f7f3654128a3f3e1157bb43478?pvs=4">
-    <img src="https://img.shields.io/badge/Lim Seongje-6B9900?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Lim Seongje-983C07?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
 </p>
 <p> <strong>Blog</strong>: </p>
@@ -16,6 +16,9 @@
   </a>
   <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4">
     <img src="https://img.shields.io/badge/Cloud Service-2F9D27?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="https://cloud-wiki.tistory.com/">
+    <img src="https://img.shields.io/badge/Development Blog-F29661?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
 </p>
 <br>
