@@ -48,10 +48,8 @@
 <p>
   <img src="https://img.shields.io/badge/C++-6799FF?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Nest.js-D9418C?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-FF0000?style=for-the-badge&logo=Googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/ArgoCD-F29661?style=for-the-badge&logo=Argo&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-008299?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
 <br>
 
