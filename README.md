@@ -9,19 +9,21 @@
     <img src="https://img.shields.io/badge/Lim Seongje-983C07?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
 </p>
-<p> <strong>Blog</strong>: </p>
+<p> <strong> Wiki Notion </strong>: </p>
 <p>
   <a href="https://www.notion.so/seongje00416/4c36eb99dd704af8b7356173ef0cb247?v=18df116d5c724a3794e5ef8fcd58c77e&pvs=4">
-    <img src="https://img.shields.io/badge/Programming-22741C?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Cloud Service-2F9D27?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="https://www.notion.so/seongje00416/06fa6ba265e54477b933d358e35ac573?v=ff751088760948c2866d600aee07fe97&pvs=4">
     <img src="https://img.shields.io/badge/Cloud Service-2F9D27?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
+</p>
+<p> <strong> Tistory Blog </strong>: </p>
+<p>
   <a href="https://cloud-wiki.tistory.com/">
-    <img src="https://img.shields.io/badge/Development Blog-F29661?style=for-the-badge&logo=tistory&logoColor=white">
+    <img src="./tistory.svg" width="50px" height="50px">
   </a>
 </p>
-<br>
 
 ## Github
 <a href="s">
