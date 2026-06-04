@@ -2,7 +2,8 @@
 
 # 안녕하세요, 임성제입니다 👋
 
-### Backend & Cloud Engineer
+### Cloud Engineer
+### Backend Engineer
 
 > 클라우드 인프라를 설계하고, 더 빠르고 안정적으로 개선하는 것을 좋아합니다.
 
