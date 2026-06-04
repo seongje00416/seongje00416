@@ -81,6 +81,17 @@
 
 <br>
 
+### [Fooding](https://github.com/FORCU27/fooding)
+> 외식업 올인원 운영 플랫폼
+
+- Spring WebFlux + SSE 기반 실시간 리워드 알림 서버 구현
+- Sinks.Many multicast로 다중 POS 기기 동시 이벤트 스트리밍
+- Kafka, Elasticsearch, Redis, MongoDB 멀티 데이터 스토어 운용
+- GitHub Actions CI/CD → Docker Hub → EC2 자동 배포 파이프라인
+- `Spring WebFlux` `SSE` `Kafka` `Elasticsearch` `Redis` `Docker`
+
+<br>
+
 ### [개인 프로젝트](링크)
 > (클라우드 엔지니어를 준비하며 클라우드 역량에 100% 집중해서 만들 개인 프로젝트)
 
