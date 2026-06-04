@@ -100,9 +100,3 @@
 **[KDT] AI·클라우드 네이티브 개발자 양성과정** — 메가존 클라우드 `2025.09 ~ 2026.03`
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seongje00416&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
