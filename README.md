@@ -2,8 +2,7 @@
 
 # 안녕하세요, 임성제입니다 👋
 
-### Cloud Engineer
-### Backend Engineer
+### Cloud Backend Engineer
 
 > 클라우드 인프라를 설계하고, 더 빠르고 안정적으로 개선하는 것을 좋아합니다.
 
@@ -53,10 +52,10 @@
 
 | 자격증 | 발급처 | 취득일 |
 |--------|--------|--------|
-| 정보처리기사 | 한국산업인력공단 | 취득일 입력 |
-| SQLD | 한국데이터산업진흥원 | 취득일 입력 |
+| 정보처리기사 | 한국산업인력공단 | - |
+| AWS SAA | Amazon Web Services | - |
+| SQLD | 한국데이터산업진흥원 | - |
 | OPIc IM | ACTFL | 2026.03 |
-| AWS SAA | Amazon Web Services | 취득 예정 |
 
 ---
 
