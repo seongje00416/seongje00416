@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=180&section=header&text=Seongje%20Lim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=180&section=header&text=임성제&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <br>
 
