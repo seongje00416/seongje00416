@@ -1,28 +1,32 @@
 <div align="center">
 
-# 안녕하세요, 임성제입니다 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=180&section=header&text=Seongje%20Lim&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=ffffff" />
 
-### Cloud Backend Engineer
+<br>
 
-> 클라우드 인프라를 설계하고, 더 빠르고 안정적으로 개선하는 것을 좋아합니다.
+### 트래픽 처리와 시스템 확장성을 고민하며
+### 백엔드부터 클라우드 인프라까지 함께 만드는 개발자입니다.
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/seongje00416@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seongje00416@gmail.com)
 [![GitHub](https://img.shields.io/badge/seongje00416-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seongje00416)
+[![Blog](https://img.shields.io/badge/구름위키-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://cloud-wiki.tistory.com)
 
 </div>
 
 ---
 
-## 📝 Blog
-[![Tistory](https://img.shields.io/badge/구름위키-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://cloud-wiki.tistory.com)
-
-> Cloud, Backend, DevOps 학습 기록
-
----
-
 ## 🛠 Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud & Infra**
 
@@ -33,82 +37,83 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
----
-
-## 🏅 Certifications
-
-| 자격증 | 발급처 | 취득일 |
-|--------|--------|--------|
-| 정보처리기사 | 한국산업인력공단 | - |
-| AWS SAA | Amazon Web Services | - |
-| SQLD | 한국데이터산업진흥원 | - |
-| OPIc IM | ACTFL | 2026.03 |
-
----
-
-## 💼 Experience
-
-**네이버 클라우드** — 인턴 `2024.03 ~ 2024.08`
-> 기술 문의 대응 및 서비스 가이드 개선
-
-**㈜스프레틱스** — 서버 개발자 `2020.07 ~ 2020.10`
-> 온라인 원격 교육 플랫폼 개발 및 클라우드 인프라 관리
 
 ---
 
 ## 🚀 Projects
 
-### [Now&Go](https://github.com/seongje00416/mzc-final-project-infra)
-> AI 기반 여행 플랜 원스톱 서비스 플랫폼 인프라
+### ⭐ [Now&Go](https://github.com/seongje00416/now-n-go-be) — 여행 올인원 플랫폼 `2026.01 ~ 2026.03`
 
-- Terraform으로 AWS EKS 프로덕션 환경 전체 IaC 구성
-- GitHub Actions + ArgoCD GitOps CI/CD 파이프라인 구축
-- IRSA 기반 보안 설계, CloudWatch 모니터링 코드화
-- `Terraform` `EKS` `ArgoCD` `GitHub Actions` `IRSA`
+> Redis SortedSet 기반 대기열 구현으로 동시 사용자 3,000명 환경에서 에러율 **80% → 0%** 개선
+
+- Redis SortedSet 기반 좌석 선점 대기열 구현으로 DB Connection Pool 고갈 문제 해결
+- CQRS 패턴 적용 — Read/Write 서비스 분리로 선택적 Scale-Out 가능한 구조 설계
+- MSA 환경에서 분산 보상 트랜잭션 직접 구현으로 고아 데이터 **2개 → 0개**
+- Terraform으로 EKS 프로덕션 환경 전체 IaC 구성, GitHub Actions + ArgoCD GitOps CI/CD 구축
+- `Spring Boot` `Redis` `PostgreSQL` `AWS EKS` `Kubernetes` `ArgoCD` `Terraform`
 
 <br>
 
-### [Fooding](https://github.com/FORCU27/fooding)
-> 외식업 올인원 운영 플랫폼
+### ⭐ [Fooding](https://github.com/seongje00416/fooding-backend) — 외식업 올인원 플랫폼 `2025.03 ~ 2026.01`
 
-- Spring WebFlux + SSE 기반 실시간 리워드 알림 서버 구현
-- Sinks.Many multicast로 다중 POS 기기 동시 이벤트 스트리밍
-- Kafka, Elasticsearch, Redis, MongoDB 멀티 데이터 스토어 운용
-- GitHub Actions CI/CD → Docker Hub → EC2 자동 배포 파이프라인
-- `Spring WebFlux` `SSE` `Kafka` `Elasticsearch` `Redis` `Docker`
+> Redis Cache 도입으로 평균 응답 시간 **43% 감소** (27.52ms → 15.65ms)
 
- <!--
+- Kafka 기반 웨이팅 예약 동시성 제어 — Redisson 분산락(1차) → Kafka FIFO 대기열(2차) 고도화로 중복 웨이팅 번호 **2개 → 0개**
+- Redis 분산 캐시 + `@Cacheable(sync=true)` 적용으로 Cache Stampede 방지
+- Spring MVC 환경의 쓰레드 고갈 문제 해결을 위해 WebFlux 기반 `fooding-realtime` 비동기 모듈 분리 개발
+- `Spring Boot` `Spring WebFlux` `Redis` `Kafka` `MySQL` `MongoDB`
+
 <br>
-### [개인 프로젝트](링크)
-> (클라우드 엔지니어를 준비하며 클라우드 역량에 100% 집중해서 만들 개인 프로젝트)
 
-- AWS + IaC(Terraform) 활용
-- 비용 절감, 효율성 등 클라우드 엔지니어로서 필요한 능력 강조
-- 트러블슈팅, 개선 경험, 테스트 측정 지표 등 정확하게 명시
-- 애플리케이션은 구글의 오픈 소스 활용( 애플리케이션 개발 시간 감소 )
+### Pool — 숏폼 기반 리퀘스트 매칭 플랫폼 `2025.03 ~ 진행 중`
+
+> AI 기반 장애 분석 시스템 구축으로 트러블슈팅 시간 **2시간 → 20분** 단축
+
+- Security FilterChain에 Claude API 연동 — 예외 발생 시 원인 분석 및 해결 방안을 Discord 웹훅으로 자동 전송
+- gRPC + Protobuf 기반 채팅 서비스 구현 — JSON 대비 페이로드 **35% 감소** (126B → 82B), proto를 통한 코드 자동 생성으로 iOS/Android 타입 안전성 확보
+- `Spring Boot` `gRPC` `AWS Lambda` `MySQL` `Claude API`
+
+<br>
+
+### 학식로그 — 학식 정보 전달 서비스 `2025.03 ~ 2025.06`
+
+- 30명 규모 팀 PM — MSA 구조 채택 및 EKS 기반 Kubernetes 클러스터 구축
+- GitHub Actions + ArgoCD CI/CD 파이프라인 완전 자동화로 개발팀 배포 러닝 커브 제거
+- `AWS EKS` `Kubernetes` `ArgoCD` `GitHub Actions`
+
+---
+
+## 💼 Experience
+
+| 기간 | 기관 | 역할 |
+|------|------|------|
+| 2026.06 ~ 2026.07 | (재)국제인재능력개발원 | 보조 강사 - AWS와 AI를 활용한 MSA 기반 웹서비스 개발 과정 |
+| 2025.09 ~ 2026.03 | 메가존 클라우드 | KDT AI·클라우드 네이티브 개발자 양성과정 |
+| 2024.03 ~ 2024.08 | 네이버 클라우드 | 인턴 — 기술 문의 대응 및 서비스 가이드 개선 |
+| 2020.07 ~ 2020.10 | ㈜스프레틱스 | 서버 개발자 — 원격 교육 플랫폼 개발 및 인프라 관리 |
+
+---
+
+## 🏅 Certifications
+
+| 자격증 | 발급처 |
+|--------|--------|
+| OPIc IM | ACTFL |
+<!--
+| 정보처리기사 | 한국산업인력공단 |
+| AWS SAA | Amazon Web Services |
+| SQLD | 한국데이터산업진흥원 |
 -->
 
-<br>
 
 ---
 
 ## 🎓 Education
 
 **명지대학교** 융합소프트웨어학부 응용소프트웨어 전공 `2019.03 ~ 2025.08`
-
-**[KDT] AI·클라우드 네이티브 개발자 양성과정** — 메가존 클라우드 `2025.09 ~ 2026.03`
-
----
