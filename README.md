@@ -9,12 +9,16 @@
 
 <br>
 
+### 📬 Contact
 [![Gmail](https://img.shields.io/badge/seongje00416@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seongje00416@gmail.com)
-[![Lim Seongje Github](https://img.shields.io/badge/seongje00416-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seongje00416)
-[![DalGurum GitHub](https://img.shields.io/badge/DalGurum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dalgurum)
-[![Blog](https://img.shields.io/badge/구름위키-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://cloud-wiki.tistory.com)
-[![Maven Central](https://img.shields.io/badge/MavenCentral-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://central.sonatype.com/namespace/io.github.dalgurum)
 
+### 🐙 GitHub
+[![Personal](https://img.shields.io/badge/seongje00416-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seongje00416)
+[![DalGurum](https://img.shields.io/badge/DalGurum-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dalgurum)
+
+### 🔗 Links
+[![Blog](https://img.shields.io/badge/구름위키-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://cloud-wiki.tistory.com)
+[![Maven Central](https://img.shields.io/badge/MavenCentral-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://central.sonatype.com/namespace/io.github.dalgurum)
 </div>
 
 ---
