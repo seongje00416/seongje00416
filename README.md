@@ -41,12 +41,12 @@
 <br/>
 
 ## 💼 Projects
-- [Constella](https://github.com/dalgurum/fooding) — Kafka 기반 모더레이션 비동기 파이프라인 + Redis 분산 처리
-- [Now&Go](https://github.com/dalgurum/now-and-go) — 64개 분산 마이크로서비스 + 분산 트랜잭션 + Redis ZSet 대기열
-- [Fooding](https://github.com/dalgurum/fooding) — WebFlux+SSE 실시간 알림 모듈 + 하네스 파이프라인
-- [Dalgurum API Tester](https://github.com/dalgurum/fooding) — k6 + Claude 기반 자동 부하 테스트 실행기
-- [Pool](https://github.com/dalgurum/pool) — AI 기반 트러블슈팅 파이프라인 + Spring Boot 기반 REST API
-- [명식당](https://github.com/dalgurum/fooding) — EKS 기반 MSA 인프라 +  CI/CD
+- [Constella](https://github.com/dalgurum/dalgurum-constella) — Kafka 기반 모더레이션 비동기 파이프라인 + Redis 분산 처리
+- [Now&Go](https://github.com/seongje00416/now-n-go-be) — 64개 분산 마이크로서비스 + 분산 트랜잭션 + Redis ZSet 대기열
+- [Fooding](https://github.com/seongje00416/fooding-backend) — WebFlux+SSE 실시간 알림 모듈 + 하네스 파이프라인
+- [Dalgurum API Tester](https://github.com/dalgurum/dalgurum-api-performance-tester) — k6 + Claude 기반 자동 부하 테스트 실행기
+- [Pool]() — AI 기반 트러블슈팅 파이프라인 + Spring Boot 기반 REST API
+- [명식당](https://github.com/orgs/TP1-OuterMSA/repositories) — EKS 기반 MSA 인프라 +  CI/CD
 
 <br/>
 
