@@ -62,7 +62,7 @@
 
 ## 📫 Contact & Channels
 [<img src="https://img.shields.io/badge/LIM SEONGJE-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/seongje00416) [<img src="https://img.shields.io/badge/DalGurum-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/dalgurum)
-[<img src="https://img.shields.io/badge/tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white"/>](https://cloud-wiki.tistory.com) [<img src="https://img.shields.io/badge/velog-%2320C997.svg?style=for-the-badge&logo=velog&logoColor=white"/>](https://velog.io/@seongje00416/posts)
+[<img src="https://img.shields.io/badge/tistory-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white"/>](https://cloud-wiki.tistory.com)
 [<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>](seongje00416@gmail.com)
 [<img src="https://img.shields.io/badge/dalgurum-0e75b6.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAES0lEQVR42u2WSW8bRxCFv+6e6Vm4S6ZkLVacBDDgQ/L/f0QucWDA..."/>](https://dalgurum.cloud/)
 
