@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 신뢰를 최우선하는 백엔드 개발자, 임성제입니다. 🚀 </h1>
+<h1 align="center"> 🚀 신뢰를 최우선하는 엔지니어, 임성제입니다. 🚀 </h1>
 <br/>
 <h3 align="center"> To Improve Service Reliability... </h3>
 <p align="center"> <strong>비동기 처리</strong>를 활용한 트래픽 분산 / 인메모리 저장소를 활용한 <strong>DB 부하</strong>를 고려한 설계 및 개발 </p>
